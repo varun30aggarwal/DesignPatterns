@@ -1,5 +1,7 @@
 package Structural.Adaptar;
 
+import java.util.List;
+
 public class AdaptarDemo {
 
 	public static void main(String[] args) {

@@ -1,0 +1,2 @@
+Created a adaptar design pattern for a situation where data is coming from multiple sources with different attribute name. In this example 
+we have one data from db and one from ldap with different attribute name. We created extra interfaces to match the client model.
