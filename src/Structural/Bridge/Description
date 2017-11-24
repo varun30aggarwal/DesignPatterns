@@ -1,0 +1,4 @@
+Bridge Pattern allows the seperation of abstraction from implementation. Abstrat and Implementation can be developed independently and
+client code can access abstraction part without knowing the implementation.In this example we have a abstract class printer which can 
+extend to different printer type and implementation as Formatter. Printer is using composition to pass formateer instance. Using this 
+there is a clear seperation of functionalities.
