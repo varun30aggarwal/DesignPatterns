@@ -1,0 +1,7 @@
+This pattern is mostly used when there is a tree structure. This pattern contains 4 participants:
+1) Leaf: defines the behavior of primitive objects.
+2) Composite: stores child component and implement child related operations in component interface.
+3) Component: interface for accessing and managing the child objects.
+4)CLient: manipulates the object in the composition through component interface. 
+
+In this example we are working with org. hirearchy and provide the example of each of the participants.
