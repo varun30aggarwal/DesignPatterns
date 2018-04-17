@@ -1,0 +1,4 @@
+com\example\core\GreetingController.class
+com\example\bean\Greeting.class
+com\example\core\HelloController.class
+com\example\DemoApplication.class
